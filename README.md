@@ -5,7 +5,7 @@ Completed in first year, first semester, Web Programming I. Website for a compan
 #### Assignment - CSS/HTML
 
 **Requirements:**
-
+- Mobile first
 - Create a static website using vanilla CSS/HTML.
 - Must use dreamweaver teamplates
 
