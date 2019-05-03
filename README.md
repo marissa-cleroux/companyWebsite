@@ -1,4 +1,4 @@
-# Company Website
+# [Company Website](https://marissa-cleroux.github.io/companyWebsite/index.html)
 
 Completed in first year, first semester, Web Programming I. Website for a company.
 
